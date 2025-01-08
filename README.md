@@ -25,6 +25,5 @@ Run the application:
 ```bash
 python main.py
 
-![image](https://github.com/user-attachments/assets/e352f118-7b79-42b4-b176-6768a8c2a1f2)
 
 
