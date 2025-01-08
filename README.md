@@ -20,12 +20,9 @@ A Python-based network scanner with auto/manual scan functionality and network s
    ```bash
    git clone https://github.com/scriptkidder/CodeAlpha_Network_scanner.git
    cd CodeAlpha_Network_scanner
-Usage
+## Usage
 Run the application:
-
-bash
-Copy code
+```bash
 python main.py
-Screenshots
-(Add screenshots of your GUI here)
+
 
