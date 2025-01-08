@@ -18,5 +18,5 @@ A Python-based network scanner with auto/manual scan functionality and network s
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<username>/network-scanner.git
-   cd network-scanner
+   git clone https://github.com/scriptkidder/CodeAlpha_Network_scanner.git
+   cd CodeAlpha_Network_scanner
